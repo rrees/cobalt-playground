@@ -4,4 +4,14 @@ title: About this site
 
 ---
 
-This is built with *Rust*
+<header>
+
+# About the playground
+
+A description of things such as they may seem.
+
+</header>
+
+This is built with *Rust*.
+
+It contains some pages and posts.
